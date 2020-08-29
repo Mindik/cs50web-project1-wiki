@@ -1,0 +1,99 @@
+body {
+  margin: 0;
+  background-color: white;
+  font-family: "Roboto", sans-serif;
+}
+
+code {
+  white-space: pre;
+}
+
+h1 {
+  margin-top: 0px;
+  padding-top: 20px;
+  text-align: center;
+}
+
+textarea {
+  height: 90vh;
+  width: 80%;
+}
+
+.main {
+  padding: 10px;
+  height: 100%;
+  width: 100vw;
+}
+.main img {
+  max-width: 70%;
+}
+
+.search {
+  width: 100%;
+  font-size: 15px;
+  line-height: 15px;
+}
+
+.sidebar {
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+
+.sidebar h2 {
+  margin-top: 5px;
+}
+
+.logo {
+  background-image: url(/static/encyclopedia/wiki.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  width: auto;
+  height: 160px;
+  text-decoration: none;
+  display: block;
+  background-size: contain;
+}
+
+textarea.form-control {
+  height: 70vh;
+}
+
+.form-control {
+  width: 80%;
+  margin: 10px auto;
+}
+
+.row {
+  min-height: 100vh;
+  width: 99vw;
+}
+
+form {
+  text-align: center;
+}
+
+a:hover {
+  color: #777;
+}
+
+.btn {
+  color: black;
+  background-color: rgba(0, 123, 255, 0.55);
+  border-color: rgba(0, 123, 255, 0.55);
+}
+
+.btn:hover {
+  color: #777;
+  background-color: rgba(0, 123, 255, 0.31);
+  border-color: rgba(0, 123, 255, 0.31);
+}
+
+.title_logo {
+  text-align: center;
+}
+
+.wiki_logo:hover {
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=styles.css.map */

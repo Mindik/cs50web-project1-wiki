@@ -1,0 +1,4 @@
+#Kungur
+
+---
+**Kungur** is a [town](https://wikipedia.org/wiki/Types_of_inhabited_localities_in_Russia "Types of inhabited localities in Russia") in the southeast of [Perm Krai](https://wikipedia.org/wiki/Perm_Krai "Perm Krai").[Russia](https://wikipedia.org/wiki/Russia "Russia"), located in the [Ural Mountains](https://wikipedia.org/wiki/Ural_Mountains "Ural Mountains") at the confluence of the rivers [Iren](https://wikipedia.org/wiki/Iren_(river) "Iren (river)") and [Shakva](https://wikipedia.org/wiki/Shakva_(river) "Shakva (river)") with the [Sylva](https://wikipedia.org/wiki/Sylva_(river) "Sylva (river)") ([Kama](https://wikipedia.org/wiki/Kama_(river) "Kama (river)")'s [basin](https://wikipedia.org/wiki/Drainage_basin "Drainage basin")). Population: <span class="nowrap">66,074

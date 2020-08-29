@@ -1,0 +1,8 @@
+#Perm
+
+----
+**Perm** is a [city](https://wikipedia.org/wiki/Types_of_inhabited_localities_in_Russia "Types of inhabited localities in Russia") and the [administrative centre](https://wikipedia.org/wiki/Administrative_centre "Administrative centre") of [PermKrai](https://wikipedia.org/wiki/Perm_Krai "Perm Krai"). It is located on the banks of the [Kama River](https://wikipedia.org/wiki/Kama_River "Kama River") in [Western Russia]https://wikipedia.org/wiki/European_Russia "European Russia"), near the [Ural Mountains](https://wikipedia.org/wiki/Ural_Mountains "Ural Mountains").
+
+According to the [2010 Census](https://wikipedia.org/wiki/Russian_Census_\(2010\) "Russian Census (2010)"), Perm's population is 991,162, down from 1,001,653 recorded in the [2002 Census](https://wikipedia.org/wiki/Russian_Census_\(2002\) "Russian Census (2002)") and 1,090,944 recorded in [1989 Census](https://wikipedia.org/wiki/Soviet_Census_\(1989\) "Soviet Census (1989)"). As of the 2010 Census, the city was the [thirteenth most populous](https://wikipedia.org/wiki/List_of_cities_and_towns_in_Russia_by_population "List of cities and towns in Russia by population") in Russia.
+
+It was previously known as *Yagoshikha (Yegoshikha)* (until 1781), *Perm* (until 1940). From 1940 to 1957 it was named **Molotov** in honor of [Vyacheslav Molotov](https://wikipedia.org/wiki/Vyacheslav_Molotov "Vyacheslav Molotov").
